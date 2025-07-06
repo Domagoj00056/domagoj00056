@@ -16,7 +16,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
   </a>
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/LaTeX_project_logo_white.svg" alt="latex" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/3216/3216846.png" alt="latex" width="40" height="40" style="background-color: white; border-radius: 5px;"/>
   </a>
 </p>
 
