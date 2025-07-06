@@ -1,12 +1,16 @@
 <h1 align="center">Hi 👋, I'm Domagoj</h1>
 
+<p>
+  I'm a  MSc Mathematics and Computer Science student at the University of St Andrews with a strong interest in applied mathematics, data science, and financial modeling.
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <!-- You can add LinkedIn, email, or other icons/links here -->
 </p>
 
 <h3 align="left">Languages:</h3>
 <p align="left">
-  <!-- C++, Python, R -->
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
@@ -16,7 +20,6 @@
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
   </a>
-  <!-- LaTeX bird icon -->
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/latex.svg"
          alt="LaTeX"
@@ -40,7 +43,6 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/overleaf.svg" alt="overleaf" width="40" height="40" style="filter: invert(1); background-color: white; border-radius: 4px; padding: 4px;" />
   </a>
 </p>
-
 
 
 
