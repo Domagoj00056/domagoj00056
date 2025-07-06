@@ -15,6 +15,9 @@
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
   </a>
+  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="latex" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">Tools:</h3>
