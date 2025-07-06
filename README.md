@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I’m Domagoj </h1>
 
 <p>
-  I'm a  MSc Mathematics and Computer Science student at the University of St Andrews with a strong interest in applied mathematics, data science, and financial modeling.
+I'm an MSc Mathematics and Computer Science student at the University of St Andrews, passionate about pure and applied mathematics, computing, and continuous learning.
 </p>
 
 <h3 align="left">Connect with me:</h3>
