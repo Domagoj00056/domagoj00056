@@ -6,6 +6,7 @@
 
 <h3 align="left">Languages:</h3>
 <p align="left">
+  <!-- C++, Python, R -->
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
@@ -15,8 +16,12 @@
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
   </a>
+  <!-- White LaTeX bird icon from Simple Icons -->
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1200px-LaTeX_logo.svg.png" alt="latex" width="40" height="40" style="filter: brightness(0) invert(1);"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/latex.svg"
+         alt="LaTeX"
+         width="40" height="40"
+         style="filter: brightness(0) invert(1);"/>
   </a>
 </p>
 
@@ -32,3 +37,4 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
   </a>
 </p>
+
