@@ -16,13 +16,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
   </a>
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
-    <img 
-      src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" 
-      alt="latex" 
-      width="40" 
-      height="40"
-      style="filter: invert(100%) brightness(200%);"
-    />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1200px-LaTeX_logo.svg.png" alt="latex" width="40" height="40" style="filter: brightness(0) invert(1);"/>
   </a>
 </p>
 
