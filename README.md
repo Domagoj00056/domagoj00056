@@ -18,7 +18,7 @@
     <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
     </a>
-    <!-- White LaTeX bird icon from Simple Icons -->
+    <!-- LaTeX bird icon -->
     <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/latex.svg"
            alt="LaTeX"
@@ -38,7 +38,11 @@
     <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
       <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
     </a>
+    <a href="https://www.overleaf.com/" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Overleaf_Logo.svg/1200px-Overleaf_Logo.svg.png" alt="overleaf" width="40" style="background-color: white; border-radius: 4px; padding: 4px;" />
+    </a>
   </p>
 
 </div>
+
 
