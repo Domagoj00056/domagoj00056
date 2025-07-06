@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <!-- You can add LinkedIn, email, or other icons/links here -->
+ 📧 domagojbagic01@outlook.com 
 </p>
 
 <h3 align="left">Languages:</h3>
