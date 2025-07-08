@@ -40,6 +40,24 @@ I'm an MSc Mathematics and Computer Science student at the University of St Andr
   <a href="https://www.overleaf.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/overleaf.svg" alt="Overleaf" width="40" height="40" style="margin-right:10px; background-color:white; padding:6px; border-radius:6px;" />
   </a>
+   </a>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48" style="margin-right:10px;" />
+  </a>
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" style="margin-right:10px;" />
+  </a>
+  <a href="https://matplotlib.org/" target="_blank">
+    <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" height="40" style="margin-right:10px;" />
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank">
+    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" height="40" style="margin-right:10px;" />
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" height="40" style="margin-right:10px;" />
+  </a>
+  <a href="https://plotly.com/" target="_blank">
+    <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="Plotly" width="40" height="40" style="margin-right:10px;" />
 </p>
 
 
