@@ -47,9 +47,6 @@ I'm an MSc Mathematics and Computer Science student at the University of St Andr
   <a href="https://numpy.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" style="margin-right:10px;" />
   </a>
-  <a href="https://matplotlib.org/" target="_blank">
-    <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" height="40" style="margin-right:10px;" />
-  </a>
   <a href="https://seaborn.pydata.org/" target="_blank">
     <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" height="40" style="margin-right:10px;" />
   </a>
